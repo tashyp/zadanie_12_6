@@ -1,0 +1,17 @@
+body {
+    background-color: #C6F2F1;
+    color: #fff;
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+}
+h1 {
+    color: black;
+    text-transform: uppercase;
+}
+h2 {
+	color: black;
+}
+ul {
+    list-style-type: none;
+}
