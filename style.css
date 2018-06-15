@@ -15,3 +15,7 @@ h2 {
 ul {
     list-style-type: none;
 }
+ul li {
+	color: black;
+	margin: 10px 0;
+}

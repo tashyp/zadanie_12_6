@@ -13,9 +13,6 @@ function searchCountries() {
   		method: 'GET',
   		success: showCountriesList
   	});
-  	fail(function () {
-      $('#countries').text('No results for your request!');
-    });
 }
 
 function showCountriesList(resp) {
